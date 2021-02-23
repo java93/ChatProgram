@@ -1,0 +1,6 @@
+[submodule "ChatServer"]
+	path = ChatServer
+	url = https://github.com/java93/ChatServer.git
+[submodule "ChatClient"]
+	path = ChatClient
+	url = https://github.com/java93/ChatClient.git
